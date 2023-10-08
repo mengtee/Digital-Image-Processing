@@ -1,6 +1,3 @@
-"""
-@Students: Chin Yu Wei, Lai Yi Mei, Tee Meng Kiat, Than Hui Ru
-"""
 import numpy as np
 import cv2
 
