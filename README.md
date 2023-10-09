@@ -16,14 +16,16 @@ This Python script utilizes OpenCV to process video frames, applying various com
    cd your-repo
 
 2. Install Dependencies:
-pip install opencv-python numpy
+   ```bash
+   pip install opencv-python numpy
 
-3. Run the Script:
-python video_processing.py
+4. Run the Script:
+   '''bash
+   python video_processing.py
 
-4. Input Videos:
+6. Input Videos:
 
-5. Place the input videos (exercise.mp4 and talking.mp4) in the same directory as the script.
+7. Place the input videos (exercise.mp4 and talking.mp4) in the same directory as the script.
 Output Video:
 
 The processed video will be saved as FinalResult_exercise.avi in the same directory.
