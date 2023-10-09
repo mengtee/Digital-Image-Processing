@@ -20,7 +20,7 @@ This Python script utilizes OpenCV to process video frames, applying various com
    pip install opencv-python numpy
 
 4. Run the Script:
-   '''bash
+   ```bash
    python video_processing.py
 
 6. Input Videos:
