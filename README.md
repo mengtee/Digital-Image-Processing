@@ -43,5 +43,6 @@ Watermarking: Two watermarks are added to frames based on certain conditions rel
 Talking Frame Overlay: Frames from the "talking" video are overlaid on the main video, adding a border and resizing them.
 
 Output Writing: Processed frames are written to the output video file.
-![Uploading image.png…]()
+
+<img width="1710" alt="image" src="https://github.com/user-attachments/assets/d9d53975-188e-4616-9e6f-366120ca726e">
 
